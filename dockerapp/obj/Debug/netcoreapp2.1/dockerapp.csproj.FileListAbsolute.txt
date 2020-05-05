@@ -1,0 +1,3 @@
+C:\Users\TUSHAR\source\repos\dockerapp\dockerapp\obj\Debug\netcoreapp2.1\dockerapp.csproj.CoreCompileInputs.cache
+C:\Users\TUSHAR\source\repos\dockerapp\dockerapp\obj\Debug\netcoreapp2.1\dockerapp.AssemblyInfoInputs.cache
+C:\Users\TUSHAR\source\repos\dockerapp\dockerapp\obj\Debug\netcoreapp2.1\dockerapp.AssemblyInfo.cs
